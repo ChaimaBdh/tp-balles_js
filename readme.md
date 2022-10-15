@@ -2,11 +2,15 @@
 
 ## Préalable 
 
-Télécharger et extraire l'archive du projet.
+Télécharger et extraire l'archive du projet ou cloner ce dépôt :  
+
+```bash
+git@github.com:ChaimaBdh/tp-balles_js.git
+```
 
 ## Installation des fichiers
 
-Dans le répertoire de l'archive extraite, exécuter la commande suivante :
+Dans le répertoire du projet, exécuter la commande suivante :
 
 ```bash
 npm install
