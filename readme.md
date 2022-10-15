@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/114859889/195989841-51d02400-87e0-48a2
 
 ## Préalable 
 
-Télécharger et extraire l'archive du projet ou cloner ce dépôt :  
+*Télécharger et extraire l'archive du projet ou cloner ce dépôt :*  
 
 ```bash
 git clone git@github.com:ChaimaBdh/tp-balles_js.git
@@ -17,7 +17,7 @@ git clone git@github.com:ChaimaBdh/tp-balles_js.git
 
 ## Installation des fichiers
 
-Dans le répertoire du projet, exécuter la commande suivante :
+*Dans le répertoire du projet, exécuter la commande suivante :*
 
 ```bash
 npm install
